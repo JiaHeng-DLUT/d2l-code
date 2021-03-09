@@ -13,7 +13,7 @@ AlexNet
 
 VGGNet
 vgg block
-?
+0.927
 
 NiN
 1. 全卷积
